@@ -1,0 +1,2 @@
+# lethal
+coding from scratch.
