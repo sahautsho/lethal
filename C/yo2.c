@@ -9,6 +9,6 @@ int main()
     printf("d is: %d\n", d);
     int a = 4 * 3 / 6 * 2; /*the operator precedence is as follows :- ()      *, /, %         +, -        =
     when there is operator of same precedence the compiler executes the operation from left to right*/
-    printf("%d", a);
+    printf("The answer is: %d\n", a);
     return 0;
 }
